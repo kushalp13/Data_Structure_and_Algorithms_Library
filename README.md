@@ -75,7 +75,7 @@
 + [Extended Euclid](algorithms/extended_euclid.cpp)
 + [Linear Diophatine Equation](algorithms/extended_euclid.cpp)
 + [Modular Mutiplicative Inverse(using Extended Euclid)](algorithms/extended_euclid.cpp)
-+ [Matrix Exponentiation](algorithms/matrix_exp.xpp)
++ [Matrix Exponentiation](algorithms/matrix_exp.cpp)
 + [Floyd Cycle Finding Algorithm](algorithms/floyd_cycle_finding.cpp)
 + [Big Integer](algorithms/big_integer.cpp)
 + [Josephus Recurrence](algorithms/Josephus_Recurrence.cpp)
